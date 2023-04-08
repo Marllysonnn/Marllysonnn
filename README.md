@@ -73,17 +73,17 @@
 ## My tools
 <table align="center"><tr>
   
-  <td valign="top" width="33%">
   
+   <td valign="top" width="50%">
   
 ### Tools
 <div align="center">  
 <a href="https://www.eclipse.com/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" alt="Eclipse" height="50" /></a>  
-<a href="https://www.vscode.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VScode" height="50" /></a>  </br>
+<a href="https://www.vscode.com/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="VScode" height="50" /></a>  
 <a href="https://www.pycharm.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="Pycharm" height="50" /></a>
-</div>
+</div></td>
     </table>
-    
+     
 
 
 ## Github Stats  
