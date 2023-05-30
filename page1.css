@@ -1,0 +1,176 @@
+body{
+    z-index: 0;
+    position: relative;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+
+    background: #ffffff;
+}
+
+.header{
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    height: 70px;
+
+    border: 1px solid #b5b5b5;
+}
+
+.container1{
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    height: 20px;
+}
+
+.homems{
+    position: absolute;
+    left: 60%;
+    top: 10px;
+    word-spacing: 30px;
+    letter-spacing: 1px;
+    list-style: none;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul :nth-child(1):hover{
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 10px;
+    padding: 10px 10px 10px 10px;
+    
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: black;
+}
+ul :nth-child(2):hover{
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 10px;
+    padding: 10px 10px 10px 10px;
+
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+ul :nth-child(3):hover{
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 10px;
+    padding: 10px 10px 10px 10px;
+
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: black;
+}
+ul :nth-child(4):hover{
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 10px;
+    padding: 10px 10px 10px 10px;
+
+    border-radius: 20px;
+    color: #FFFFFF;
+    background-color: black;
+}
+
+.logo{
+    z-index: 0;
+    position: absolute;
+    left: 10px;
+}
+
+.container2{
+    position: absolute;
+    left: 20%;
+    top: 20vh;
+}
+
+.box{
+    z-index: 2;
+    position: relative;
+    width: 360px;
+    height: 440px;
+
+    background: none;
+
+}
+
+.foto1{
+    position: relative;
+    width: 360px;
+    height: 300px;
+    left: -3px;
+    cursor: pointer;
+
+    border-radius: 20px;
+}
+.foto2{
+    position: absolute;
+    width: 110px;
+    height: 100px;
+    top: 320px;
+    left: -3px;
+    cursor: pointer;
+
+    border-radius: 20px;
+}
+.foto3{
+    position: absolute;
+    width: 110px;
+    height: 100px;
+    top: 320px;
+    left: 123px;
+    cursor: pointer;
+
+    border-radius: 20px;
+}
+.foto4{
+    position: absolute;
+    width: 110px;
+    height: 100px;
+    top: 320px;
+    left: 250px;
+    cursor: pointer;
+
+    border-radius: 20px;
+}
+
+button[type="buy"]{
+    position: absolute;
+    width: 230px;
+    height: 80px;
+    left: 390px;
+    top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    letter-spacing: 5px;
+
+    border-radius: 20px;
+    background: #FFFFFF;
+}
+
+button[type="carrinho"]{
+    position: absolute;
+    width: 230px;
+    height: 50px;
+    left: 390px;
+    top: 246px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    letter-spacing: 5px;
+
+    border-radius: 20px;
+    background: #FFFFFF;
+}
+
+.titulo{
+    position: absolute;
+    width: 230px;
+    letter-spacing: -1px;
+    font-size: x-large;
+    font-weight: 300;
+    left: 390px;
+}
