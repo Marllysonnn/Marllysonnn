@@ -10,47 +10,42 @@
 </div>
 
 ## My Skill Set  
-<table align="center"><tr>
+<table align="center" width="2000px"><tr>
   
-  <td valign="top" width="33%">
-
-
-
+  <td valign="top" width="10%">
+    
 ### Frontend  
-<div align="center">
+<div align="center" width="50%">
 <a href="https://www.html.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" height="50" /></a>
 <a href="https://www.css.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="JavaScript" height="50" /></a>
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" /></a>
-
 </div>
 
   </td>
   
-  <td valign="top" width="33%">
-
-
-
-### Backend  
+  <td valign="top" width="10%">
+    
+  ### Backend
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  </a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
   </td>
-
-  <td valign="top" width="33%">
-     
-     
-### Design
+  
+  <td valign="top" width="10%">  
+  
+  ### Design  
 <div align="center">  
-<a href="https://krita.org/en/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/600px-Calligrakrita-base.svg.png" alt="Krita" height="50" /></a>  
-<a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" alt="Gimp" height="50" /></a>  
-</div>
+<a href="https://krita.org/en/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/600px-Calligrakrita-base.svg.png" alt="Krita" height="50"/></a>  
+<a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1024px-The_GIMP_icon_-_gnome.svg.png" alt="Gimp" height="50"/></a>        
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 </div>
 
-  </tr></table>  
+  </tr>
+  
+  </table>  
 
   <br/>  
 
