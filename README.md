@@ -20,6 +20,8 @@
 <a href="https://www.css.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="JavaScript" height="50" /></a>
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" /></a>
+<a href="https://vue.js.org" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="Vue.js" height="50" /></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" /></a>
 </div>
 
   </td>
