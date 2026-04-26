@@ -50,7 +50,6 @@
 * Vue.js
 * Angular
 * Flask
-* Hibernate
 * Spring Boot
 
 ---
