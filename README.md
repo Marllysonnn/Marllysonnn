@@ -1,13 +1,13 @@
 <!-- HEADER ANIMADO -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfff&height=200&section=header&text=(SEU%20NOME)&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfff&height=200&section=header&text=Marllyson+Alves&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- TYPING EFFECT -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+(SUA+STACK);Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40&duration=500&pause=100&multiline=true&repeat=false&width=435&height=100&lines=Desenvolvedor+JavaScript;Desenvolvedor+TypeScript;Desenvolvedor+Java" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -15,10 +15,10 @@
 ## 🧠 Sobre mim
 
 ```diff
-+ Nome: Marllyson Alves
-+ Área: DESENVOLVEDOR FRONTEND/BACKEND
-+ Local: Recife - PE
-! Foco atual: Java e Spring
+ Nome: Marllyson Alves
+ Área: DESENVOLVEDOR FRONTEND/BACKEND
+ Local: Recife - PE
+ Foco atual: Java e Spring
 ```
 
 ---
@@ -79,15 +79,26 @@
 
 ---
 
+### 💻 IDE
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode&theme=dark" />
+</p>
+
+* Eclipse 
+* VScode
+
+---
+
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=(SEU_USER)&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&border_color=00bfff" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=(SEU_USER)&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00bfff&border_color=00bfff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marllysonnn&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&border_color=00bfff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllysonnn&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00bfff&border_color=00bfff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=(SEU_USER)&theme=tokyonight&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" />
+  <img src="https://streak-stats.demolab.com?user=Marllysonnn&theme=tokyonight&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" />
 </p>
 
 ## 📫 Contato
