@@ -6,9 +6,10 @@
 
 <!-- TYPING EFFECT -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40&duration=500&pause=100&multiline=true&repeat=false&width=435&height=100&lines=Desenvolvedor+JavaScript;Desenvolvedor+TypeScript;Desenvolvedor+Java" alt="Typing SVG" /></a>
-</p>
+<h3 align="center">
+  <p margin-bottom="12px">Desenvolvedor</p> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40&duration=900&pause=100&width=110&height=25&lines=JavaScript;TypeScript;Java" alt="Typing SVG" />
+</h3>
 
 ---
 
