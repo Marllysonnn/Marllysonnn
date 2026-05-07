@@ -24,6 +24,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marllysonnn/Marllysonnn/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## 🚀 Stack Principal
 
 ### 💻 Linguagens
