@@ -93,8 +93,11 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marllysonnn&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&border_color=00bfff" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllysonnn&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00bfff&border_color=00bfff" />
+  <img height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=Marllysonnn&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&border_color=00bfff&cache_seconds=1800" />
+
+  <img height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllysonnn&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00bfff&border_color=00bfff&cache_seconds=1800" />
 </p>
 
 <p align="center">
